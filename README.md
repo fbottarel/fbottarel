@@ -10,6 +10,10 @@ I am Fabrizio Bottarel, a tinkerer turned robotics engineer roaming around the c
 - 📨 [Reach out](mailto:fabrizio.bottarel@altorobotics.ai)
 - 👔 My [LinkedIn](https://www.linkedin.com/in/fbottarel) profile
 
-## Contributions
+### Toolbox
+
+[![Tech Stack](https://skillicons.dev/icons?i=linux,bash,cpp,python,cmake,vscode,docker,git,github,ros,opencv,pytorch,claude,latex)](https://skillicons.dev)
+
+### Contributions
 
 <img src="https://pacman.abozanona.me?username=fbottarel&platform=github" />
