@@ -1,16 +1,15 @@
-## Hi there 👋
+### _Howdy, stranger. Hot one today eh?_ 🤠
 
-<!--
-**fbottarel/fbottarel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Fabrizio Bottarel, a tinkerer turned robotics engineer roaming around the current technological hellscape.
 
-Here are some ideas to get you started:
+- 🔬 Currently learning a range of mobile robotics topics (SLAM in particular), and how to make my home PC not overheat all the time
+- 🛠️ Currently working with [Alto Robotics](altorobotics.ai) on the development of the Node robot platform
+- 🧑‍🔬 My research interests revolve around vision-based robotics manipulation and grasping techniques
+- 📑 My citations page at [Google Scholar](https://scholar.google.com/citations?user=tKwmtjMAAAAJ&hl)
+- 🤖 My [former work](https://github.com/hsp-panda) with [HSP@IIT](@https://github.com/hsp-iit)
+- 📨 [Reach out](mailto:fabrizio.bottarel@altorobotics.ai)
+- 👔 My [LinkedIn](https://www.linkedin.com/in/fbottarel) profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contributions
+
+<img src="https://pacman.abozanona.me?username=fbottarel&platform=github" />
